@@ -16,9 +16,9 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 ## CONTENTS
 
-**[Introduction](#introduction)**
+**[はじめに](#introduction)**
 
-- [What Is This?](#what-is-this)
+- [これは何？](#what-is-this)
 - [The Basics](#the-basics)
 
 **[Character Creation](#character-creation)**
@@ -69,11 +69,11 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 - [Domain Card Reference](#domain-card-reference)
 
-## INTRODUCTION
+## はじめに
 
 **ダガーハートにようこそ、** _これは驚異の魔法と英雄的で心躍らす冒険の協力型ファンタジー・テーブルトップ・ロールプレイング・ゲームだ。_
 
-### これは何？WHAT IS THIS?
+### これは何？
 
 これはダガーハートSRD{Daggerheart SRD (System Reference Document)}だ。これはダガーハートのシステムの仕組みをまとめたもので、明快さ、簡潔さ、素早い参照性を重視して編集されている。
 
