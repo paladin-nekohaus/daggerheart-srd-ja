@@ -112,15 +112,15 @@ Similarly, if your character does something that would logically result in immed
 
 As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
 
-## CHARACTER CREATION
+## キャラクター作成
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.
 
 > _Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process._
 
-##### STEP 1
+##### ステップ1
 
-**Choose a Class and Subclass.**
+**クラスおよびサブクラスの選択。**
 
 **Classes** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
 
@@ -128,7 +128,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 - Every class begins with one or more unique **class feature(s),** described at the bottom left of each class's character sheet. If your class feature prompts you to make a selection, do so now.
 - **Choose a Subclass.** **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class's subclasses and take its **Foundation** card.
 
-##### STEP 2
+##### ステップ2
 
 **Choose Your Heritage.**
 
@@ -137,32 +137,32 @@ Your character's **heritage** combines two elements: **ancestry** and **communit
 - A character's **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features.** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 - Your character's **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne.
 
-##### STEP 3
+##### ステップ3
 
 **Assign Character Traits.**
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
-- **Strength** (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina. You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
-- **Finesse** (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control. You'll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
-- **Instinct** (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition. You'll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
-- **Presence** (Use it to Charm, Perform, Deceive, etc.) A high Presence means you have a strong force of personality and a facility for social situations. You'll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
-- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.) A high Knowledge means you know information others don't and understand how to apply your mind through deduction and inference. You'll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
+- **【瞬発】** (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger. You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
+- **【筋力】** (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina. You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
+- **【器用】** (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control. You'll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
+- **【直感】** (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition. You'll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
+- **【存在】** (Use it to Charm, Perform, Deceive, etc.) A high Presence means you have a strong force of personality and a facility for social situations. You'll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
+- **【知識】** (Use it to Recall, Analyze, Comprehend, etc.) A high Knowledge means you know information others don't and understand how to apply your mind through deduction and inference. You'll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
 
 When you "roll with a trait," that trait's modifier is added to the roll's total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character's traits in any order you wish.
 
-##### STEP 4
+##### ステップ4
 
 **Record Additional Character Information.**
 
 - Characters start a new campaign at **Level 1.** Record your level in the designated space at the top of your character sheet.
-- **Evasion** represents your character's ability to avoid damage. Your character's starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
-- **Hit Points (HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
-- **Stress** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
-- **Hope** is a metacurrency that fuels special moves and certain abilities or features. All PCs start with 2 Hope; mark these in the Hope field of your character sheet.
+- **回避** represents your character's ability to avoid damage. Your character's starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
+- **ヒット・ポイント(HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
+- **重圧** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
+- **希望** is a metacurrency that fuels special moves and certain abilities or features. All PCs start with 2 Hope; mark these in the Hope field of your character sheet.
 
-##### STEP 5
+##### ステップ5
 
 **Choose Your Starting Equipment.**
 
@@ -184,7 +184,7 @@ Add the following items to the **Inventory** fields on your character sheet:
 - If applicable, whichever class-specific item you selected to carry your spells
 - Any other GM-approved items you'd like to have at the start of the game
 
-##### STEP 6
+##### ステップ6
 
 **Create Your Background.**
 
@@ -192,7 +192,7 @@ Develop your character's **background** by answering the **background questions*
 
 > _**Note:** Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play._
 
-##### STEP 7
+##### ステップ7
 
 **Create Your Experiences.**
 
@@ -213,13 +213,13 @@ An Experience is a word or phrase used to encapsulate a specific set of skills, 
 >
 > **Phrases:** _Catch Me If You Can, Fake It Till You Make It, First Time's the Charm, Hold the Line, I Won't Let You Down, I'll Catch You, I've Got Your Back, Knowledge Is Power, Nature's Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep's Clothing_
 
-##### STEP 8
+##### ステップ8
 
 **Choose Domain Cards.**
 
 Your class has access to two of the nine Domains included in the core set. Choose two cards from your class's domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
-##### STEP 9
+##### ステップ9
 
 **Create Your Connections.**
 
@@ -233,43 +233,43 @@ Connections are the relationships between the PCs. To create connections, follow
 
 ## CORE MATERIALS
 
-### DOMAINS
+### 領域
 
 The Daggerheart core set includes 9 Domain Decks, each comprising a collection of cards granting features or special abilities expressing a particular theme.
 
 **The 9 Domains are:**
 
-- [Arcana](domains/Arcana.md)
-- [Blade](domains/Blade.md)
-- [Bone](domains/Bone.md)
-- [Codex](domains/Codex.md)
-- [Grace](domains/Grace.md)
-- [Midnight](domains/Midnight.md)
-- [Sage](domains/Sage.md)
-- [Splendor](domains/Splendor.md)
-- [Valor](domains/Valor.md)
+- [神秘](domains/Arcana.md)
+- [兵法](domains/Blade.md)
+- [修練](domains/Bone.md)
+- [写本](domains/Codex.md)
+- [優雅](domains/Grace.md)
+- [暗闘](domains/Midnight.md)
+- [山野](domains/Sage.md)
+- [生命](domains/Splendor.md)
+- [武勇](domains/Valor.md)
 
 #### CLASS DOMAINS
 
 Each class grants access to two domains:
 
-- **Bard:** Codex & Grace
-- **Druid:** Arcana & Sage
-- **Guardian:** Blade & Valor
-- **Ranger:** Bone & Sage
-- **Rogue:** Grace & Midnight
-- **Seraph:** Splendor & Valor
-- **Sorcerer:** Arcana & Midnight
-- **Warrior:** Blade & Bone
-- **Wizard:** Codex & Splendor
+- **バード:** 写本 & 優雅
+- **ドルイド:** 神秘 & 山野
+- **ガーディアン:** 兵法 & 武勇
+- **レンジャー:** 修練 & 山野
+- **ローグ:** 優雅 & 暗闘
+- **セラフ:** 生命 & 武勇
+- **ソーサラー:** 神秘 & 暗闘
+- **ウォリアー:** 兵法 & 修練
+- **ウィザード:** 写本 & 生命
 
 PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
 
-#### DOMAIN CARDS
+#### 領域カード
 
 Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
 
-###### DOMAIN CARD ANATOMY
+###### 領域カードの読み方
 
 Each domain card includes six elements:
 
@@ -298,7 +298,7 @@ If a domain card restricts how often it can be used, you can track such limits w
 
 > _**Note:** if an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses._
 
-### CLASSES
+### クラス
 
 A **class** is a role-based archetype that determines a PC's:
 
