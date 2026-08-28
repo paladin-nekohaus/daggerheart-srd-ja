@@ -1,4 +1,4 @@
-# DAGGERHEART
+# ダガーハート(DAGGERHEART)
 
 **SYSTEM REFERENCE DOCUMENT 1.0 (VER SEP-09-2025)**
 
@@ -71,22 +71,22 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 ## INTRODUCTION
 
-**Welcome to DAGGERHEART,** _a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure._
+**ダガーハートにようこそ、** _これは驚異の魔法と英雄的で心躍らす冒険の協力型ファンタジー・テーブルトップ・ロールプレイング・ゲームだ。_
 
-### WHAT IS THIS?
+### これは何？WHAT IS THIS?
 
-This is the Daggerheart SRD (System Reference Document). It is a repository of the mechanical elements of the Daggerheart system, edited and organized for clarity, conciseness, and quick reference.
+これはダガーハートSRD{Daggerheart SRD (System Reference Document)}だ。これはダガーハートのシステムの仕組みをまとめたもので、明快さ、簡潔さ、素早い参照性を重視して編集されている。
 
-You can use this SRD in several ways:
+君はこのSRDで以下のようなことに活用できる:
 
-- To quickly look up Daggerheart's rules-as-written during gameplay sessions.
-- To ensure any homebrew content you create or publish conforms with Daggerheart's core ruleset.
-- To provide copy text made available by Darrington Press for your own publications under their Community Gaming License (www.darringtonpress.com/license).
-- To better understand the mechanics of Daggerheart, absent the flavor and setting information, so you can bend or break them in the process of making your own content.
+- ゲームのセッション中に『ダガーハート』のルールを素早く確認する。
+- 作り上げたり公開したりする自作コンテンツが『ダガーハート』の基本ルールに準拠しているか確認する。
+- Darrington Pressの『Community Gaming License (www.darringtonpress.com/license)』に従い、テキストを君自身の出版物で使用する。
+- フレーバーや世界設定の要素を除いた『ダガーハート』の仕組みを深く理解し、君自身のコンテンツを制作するために柔軟に改変、応用する。
 
-The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.
+『Daggerheart SRD』は、世界設定の解説、ゲームプレイの具体的な例示、ダガーハートのプレイするための数多くの素晴らしい助言――語るまでもない豪華なアートワークやレイアウトが盛り込まれた基本ルールを置き換える物ではない。 
 
-In short, it is Daggerheart, the system, boiled down to the bones—a lean and clean offering without all the flavor, style, and supporting material that makes the core rulebook such an evocative and enjoyable read. We hope this document proves useful to your table. Happy adventuring!
+要するに、これは『ダガーハート』というシステムから基本ルールを魅力あふれる楽しい読み物にしているすべてのフレーバー、スタイル、補足資料などを省いて骨になるまで煮込んだもので、無駄なく単純な内容になっている。この文書が君たちの卓の役に立てば幸いである。楽しい冒険を！
 
 ### THE BASICS
 
