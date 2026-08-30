@@ -92,17 +92,17 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 #### WHAT IS DAGGERHEART?
 
-Daggerheart is a tabletop roleplaying game for one Game Master ("GM") and 2-5 players. Each game session lasts about 2-4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
+ダガーハートは1人のゲーム・マスター(GM)と2～5人のプレイヤー向けのテーブルトップ・ロールプレイング・ゲームだ。ゲームのセッションは2～4時間で、ダガーハートは1回きりのプレイから数セッションにわたる好きな長さのキャンペーンまでプレイできる。
 
 During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters ("PCs") encounter. The players, in turn, roleplay their PCs' reactions to the scenario presented by the GM. If the outcome of a player's action depends on fate or fortune, the GM calls for an action roll.
 
 When a player makes an action roll, they utilize Duality Dice—two differently colored 12-sided dice ("d12s") representing Hope and Fear. The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a Difficulty set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it's lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
 
-##### THE GOLDEN RULE
+##### 黄金律(ゴールデン・ルール)
 
-The most important rule of Daggerheart is to make the game your own. The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories. The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have. As long as your group agrees, everything can be adjusted to fit your play style. If there's a rule you'd rather ignore or modify, feel free to implement any change with your table's consent.
+ダガーハートでもっとも重要なルールは、君たちだけのゲームを作ることだ。このSRDに入っているルールは君がテーブルで楽しい体験をすることを助けるためにデザインされているが、ルールの解釈や物語の語り方には人それぞれさまざまな道がある。このルールが君たちの語りたい物語、君たちの演じたいキャラクター、あるいは君たちが体験したい冒険の妨げになるようなことがあってはならない。グループの同意さえあれば、あらゆるものを君たちのプレイ・スタイルに合わせて調整して構わない。無視したり変更したいルールがあるなら、参加者全員の同意を得て、自由に改変して構わない。
 
-##### RULINGS OVER RULES
+##### ルールの上のルール
 
 While playing Daggerheart, the GM and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won't answer all of them. When you're in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
 
@@ -930,21 +930,21 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 
 | Name         | Trait    | Range      | Damage    | Burden     | Feature                                                                                                            |
 | ------------ | -------- | ---------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| [Broadsword](weapons/Broadsword.md) | Agility  | Melee      | d8 phy    | One-Handed | **_Reliable:_** +1 to attack rolls                                                                                 |
-| [Longsword](weapons/Longsword.md) | Agility  | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
-| [Battleaxe](weapons/Battleaxe.md) | Strength | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
-| [Greatsword](weapons/Greatsword.md) | Strength | Melee      | d10+3 phy | Two-Handed | **_Massive:_** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result. |
-| [Mace](weapons/Mace.md) | Strength | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
-| [Warhammer](weapons/Warhammer.md) | Strength | Melee      | d12+3 phy | Two-Handed | **_Heavy:_** -1 to Evasion                                                                                         |
-| [Dagger](weapons/Dagger.md) | Finesse  | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
-| [Quarterstaff](weapons/Quarterstaff.md) | Instinct | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
-| [Cutlass](weapons/Cutlass.md) | Presence | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
-| [Rapier](weapons/Rapier.md) | Presence | Melee      | d8 phy    | One-Handed | **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.               |
-| [Halberd](weapons/Halberd.md) | Strength | Very Close | d10+2 phy | Two-Handed | **_Cumbersome:_** -1 to Finesse                                                                                    |
-| [Spear](weapons/Spear.md) | Finesse  | Very Close | d8+3 phy  | Two-Handed | —                                                                                                                  |
-| [Shortbow](weapons/Shortbow.md) | Agility  | Far        | d6+3 phy  | Two-Handed | —                                                                                                                  |
-| [Crossbow](weapons/Crossbow.md) | Finesse  | Far        | d6+1 phy  | One-Handed | —                                                                                                                  |
-| [Longbow](weapons/Longbow.md) | Agility  | Very Far   | d8+3 phy  | Two-Handed | **_Cumbersome:_** -1 to Finesse                                                                                    |
+| [ブロードソード](weapons/Broadsword.md) | Agility  | Melee      | d8 phy    | One-Handed | **_Reliable:_** +1 to attack rolls                                                                                 |
+| [ロングソード](weapons/Longsword.md) | Agility  | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
+| [バトルアックス](weapons/Battleaxe.md) | Strength | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
+| [グレートソード](weapons/Greatsword.md) | Strength | Melee      | d10+3 phy | Two-Handed | **_Massive:_** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result. |
+| [メイス](weapons/Mace.md) | Strength | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
+| [ウォーハンマー](weapons/Warhammer.md) | Strength | Melee      | d12+3 phy | Two-Handed | **_Heavy:_** -1 to Evasion                                                                                         |
+| [ダガー](weapons/Dagger.md) | Finesse  | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
+| [クォータースタッフ](weapons/Quarterstaff.md) | Instinct | Melee      | d10+3 phy | Two-Handed | —                                                                                                                  |
+| [カットラス](weapons/Cutlass.md) | Presence | Melee      | d8+1 phy  | One-Handed | —                                                                                                                  |
+| [レイピア](weapons/Rapier.md) | Presence | Melee      | d8 phy    | One-Handed | **_Quick:_** When you make an attack, you can mark a Stress to target another creature within range.               |
+| [ハルバード](weapons/Halberd.md) | Strength | Very Close | d10+2 phy | Two-Handed | **_Cumbersome:_** -1 to Finesse                                                                                    |
+| [スピア](weapons/Spear.md) | Finesse  | Very Close | d8+3 phy  | Two-Handed | —                                                                                                                  |
+| [ショートボウ](weapons/Shortbow.md) | Agility  | Far        | d6+3 phy  | Two-Handed | —                                                                                                                  |
+| [クロスボウ](weapons/Crossbow.md) | Finesse  | Far        | d6+1 phy  | One-Handed | —                                                                                                                  |
+| [ロングボウ](weapons/Longbow.md) | Agility  | Very Far   | d8+3 phy  | Two-Handed | **_Cumbersome:_** -1 to Finesse                                                                                    |
 
 ##### TIER 1 (LEVEL 1) Magic Weapons
 
